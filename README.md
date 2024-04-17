@@ -15,17 +15,11 @@ Live demo at https://jekyll-theme-minimal-resume.netlify.com/
 ![](https://img.shields.io/badge/devicon-✓-blue.svg)
 ![](https://img.shields.io/badge/gulp-✓-blue.svg)
 
-***
+---
 
-<h3 align="center">Please help this repo with a ⭐ or <a href='https://github.com/sponsors/murraco'>Sponsor Me</a> if you find it useful! :blush:</h3>
+<h3 align="center">Originally at: https://github.com/murraco/jekyll-theme-minimal-resume</h3>
 
-***
-
-# Screenshot
-
-<p align="center">
-  <img src="https://github.com/murraco/jekyll-theme-minimal-resume/blob/master/screenshot.png" width="90%" />
-</p>
+---
 
 # Quick Setup
 
@@ -38,6 +32,7 @@ Live demo at https://jekyll-theme-minimal-resume.netlify.com/
 You have to fill some informations on `_config.yml` to customize your site:
 
 ## Site settings
+
 ```yml
 description: A blog about lorem ipsum dolor sit amet
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -45,6 +40,7 @@ url: "http://localhost:3000" # the base hostname & protocol for your site
 ```
 
 ## User settings
+
 ```yml
 username: Lorem Ipsum
 user_description: Software Engineer at Lorem Ipsum Dolor
@@ -80,14 +76,3 @@ In order to compile the assets and run `Jekyll` locally you need to follow those
 2. Run `bundle install`
 3. Run `bundle exec jekyll build`
 4. Start and http-server in the folder `_site`
-
-# Contribution
-
-- Report issues
-- Open pull request with improvements
-- Spread the word
-- Reach out to me directly at <mauriurraco@gmail.com>
-
-# Credits
-
-- [Nathan Randecker](https://github.com/nrandecker)
